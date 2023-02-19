@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Yazilim Gundem ~ Beautiful Twitter Screenshots",
+  "name": "Beautiful Twitter Screenshots",
   "version": "1.0.0",
   "description": "Create beautiful screenshots of any tweet.",
   "action": {
